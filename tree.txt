@@ -1,0 +1,45 @@
+|-- LICENSE
+|-- README.md
+|-- README_EN.md
+|-- guia_aulas
+  |-- 1_preparando_ambiente
+    |-- 1_instalacao.md
+    |-- 2_chave_ssh.md
+    |-- 3_config_global.md
+    |-- 4_instalacao_vs_code.md
+    |-- 5_criando_repositorio.md
+  |-- 2_introducao_github_actions
+    |-- 1_o_que_e_github_actions.md
+    |-- 2_workflow_templates.md
+    |-- 3_estrutura_basica.md
+    |-- 4_sintaxe_variaveis.md
+  |-- 3_gatilhos_de_execucao
+    |-- 1_documentacao_triggers.md
+    |-- 2_on_push.md
+    |-- 3_on_pull_request.md
+    |-- 4_on_workflow_dispatch.md
+    |-- 5_on_cron.md
+    |-- 6_on_workflow_run.md
+  |-- 4_senhas_variaveis
+    |-- 1_config_variaveis_gha
+      |-- 1_config_variaveis_gha.md
+      |-- 1_config_variaveis_gha.yml
+    |-- 2_config_secrets_gha
+      |-- 2_config_secrets_gha.md
+      |-- 2_config_secrets_gha.yml
+    |-- 3_variavel_ambiente
+      |-- 3_variavel_ambiente.md
+      |-- 3_variavel_ambiente.yml
+  |-- 5_variacoes_workflows
+    |-- 1_dependecia_job
+      |-- 1_dependecia_job.md
+      |-- 1_dependecia_job.yml
+    |-- 2_matrix_strategy
+      |-- 2_matrix_strategy.md
+      |-- 2_matrix_strategy.yml
+    |-- 3_condicionais
+      |-- 3_condicionais.md
+      |-- 3_condicionais.yml
+    |-- 4_gerenciamento_erros
+      |-- 4_gerenciamento_erros.md
+      |-- 4_gerenciamento_erros.yml
